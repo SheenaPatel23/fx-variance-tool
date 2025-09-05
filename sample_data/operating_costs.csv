@@ -1,0 +1,5 @@
+Date,CostCentre,Item,Currency,BudgetLocal,ActualLocal
+2025-01-15,Ops,Port fees,USD,10000,12000
+2025-01-31,Ops,Bunker,USD,5000,5500
+2025-02-10,Crewing,Wages,GBP,8000,7600
+2025-02-28,Ops,Repairs,NOK,90000,92000
